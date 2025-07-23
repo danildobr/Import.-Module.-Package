@@ -1,4 +1,3 @@
-Домашнее задание к лекции 1. «Import. Module. Package»
 
 
 # [Домашнее задание к лекции 1. «Import. Module. Package»1.](https://github.com/danildobr/Import.-Module.-Package/blob/main/main.py) 
